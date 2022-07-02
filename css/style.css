@@ -1,0 +1,6 @@
+*{
+    /******Removing the default padding, margin and adding box-sizing*******/
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
